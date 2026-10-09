@@ -3,7 +3,7 @@
   "name": "Можно русскую",
   "createdAt": "2026-10-09T05:22:27.096Z",
   "filename": "e76bb896-c936-4cbe-889f-09d2de1a364c.json",
-  "geminiStarted": false,
+  "geminiStarted": true,
   "messages": [
     {
       "id": "6f648eea-0885-44e4-8991-5cda22e173be",
@@ -15,6 +15,18 @@
       "parent_message_id": null,
       "created_at": "2026-10-09T05:28:12.078Z",
       "sender": "ios",
+      "is_cancelled": false
+    },
+    {
+      "id": "42e63ad4-5e9a-4f9e-b844-24d75310aff8",
+      "role": "agent",
+      "content": "Ваш Google-аккаунт уже успешно подключён и авторизован — этот одноразовый код подтверждения больше не требуется.\n\nДа, конечно! Я свободно общаюсь и работаю на русском языке. \n\nЧто именно вы хотите создать? Расскажите о вашей идее (например, веб-сайт, приложение, игра или что-то другое), и я помогу всё разработать!",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "6f648eea-0885-44e4-8991-5cda22e173be",
+      "created_at": "2026-10-09T05:31:03.330Z",
+      "sender": "macOS",
       "is_cancelled": false
     }
   ]
